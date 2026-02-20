@@ -1,6 +1,6 @@
 [![SurpassHR's github streak](https://github-readme-streak-stats.herokuapp.com/?user=SurpassHR&theme=github_dark_dimmed)](https://github.com/SurpassHR/SurpassHR)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurpassHR&show_icons=true&icon_color=199861&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark_dimmed)
+![SurpassHR's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurpassHR&show_icons=true&icon_color=199861&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark_dimmed)
 
 [![SurpassHR's GitHub trophy](https://github-profile-trophy.vercel.app/?username=SurpassHR&theme=onedark&&column=9&no-frame=true)](https://github.com/SurpassHR/SurpassHR)
 
@@ -36,5 +36,6 @@ I am proficient in various programming languages and technologies, and always ea
 ### 📞 Contact
 
 I look forward to connecting with you! If you have any project collaborations, technical discussions, or career opportunities, please feel free to reach out via:
+
 
 - **Gmail**: hu.rui0530@gmail.com
