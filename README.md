@@ -2,8 +2,6 @@
 
 ![SurpassHR's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurpassHR&show_icons=true&icon_color=199861&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark_dimmed)
 
-[![SurpassHR's GitHub trophy](https://github-profile-trophy.vercel.app/?username=SurpassHR&theme=onedark&&column=9&no-frame=true)](https://github.com/SurpassHR/SurpassHR)
-
 ### 👋 Hi, I'm SurpassHR
 A C++ embedded developer and open-source enthusiast.
 
