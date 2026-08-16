@@ -30,10 +30,3 @@ I am proficient in various programming languages and technologies, and always ea
 
 - Learning: Rust (actively)
 - Seeking Collaborations: Open-source projects, embedded systems development, performance optimization
-
-### 📞 Contact
-
-I look forward to connecting with you! If you have any project collaborations, technical discussions, or career opportunities, please feel free to reach out via:
-
-
-- **Gmail**: hu.rui0530@gmail.com
